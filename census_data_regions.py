@@ -1,4 +1,3 @@
-# ---------------------- ORIGINAL (unchanged) ----------------------
 import requests
 import pandas as pd
 import os
@@ -68,10 +67,9 @@ else:
     print("\n No data available to merge.")
 
 print("\n All available Census data downloaded and merged successfully!")
-# -------------------- END ORIGINAL (unchanged) --------------------
 
 
-# -------- APPEND: add Region column using a non-repeating mapping --------
+# --------  add Region column using a non-repeating mapping --------
 # Load the merged file produced above
 merged_input = os.path.join(output_folder, "merged_census_data.csv")
 df_regions = pd.read_csv(merged_input)
