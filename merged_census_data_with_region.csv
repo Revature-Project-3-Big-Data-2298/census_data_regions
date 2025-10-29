@@ -1,0 +1,157 @@
+Year,NAME,state,Total_Population,Region
+2000,Alabama,1,4447100,South
+2000,Alaska,2,626932,West
+2000,Arizona,4,5130632,West
+2000,Arkansas,5,2673400,South
+2000,California,6,33871648,West
+2000,Colorado,8,4301261,West
+2000,Connecticut,9,3405565,Northeast
+2000,Delaware,10,783600,South
+2000,District of Columbia,11,572059,South
+2000,Florida,12,15982378,South
+2000,Georgia,13,8186453,South
+2000,Hawaii,15,1211537,West
+2000,Idaho,16,1293953,West
+2000,Illinois,17,12419293,Midwest
+2000,Indiana,18,6080485,Midwest
+2000,Iowa,19,2926324,Midwest
+2000,Kansas,20,2688418,Midwest
+2000,Kentucky,21,4041769,South
+2000,Louisiana,22,4468976,South
+2000,Maine,23,1274923,Northeast
+2000,Maryland,24,5296486,South
+2000,Massachusetts,25,6349097,Northeast
+2000,Michigan,26,9938444,Midwest
+2000,Minnesota,27,4919479,Midwest
+2000,Mississippi,28,2844658,South
+2000,Missouri,29,5595211,Midwest
+2000,Montana,30,902195,West
+2000,Nebraska,31,1711263,Midwest
+2000,Nevada,32,1998257,West
+2000,New Hampshire,33,1235786,Northeast
+2000,New Jersey,34,8414350,Northeast
+2000,New Mexico,35,1819046,West
+2000,New York,36,18976457,Northeast
+2000,North Carolina,37,8049313,South
+2000,North Dakota,38,642200,Midwest
+2000,Ohio,39,11353140,Midwest
+2000,Oklahoma,40,3450654,South
+2000,Oregon,41,3421399,West
+2000,Pennsylvania,42,12281054,Northeast
+2000,Rhode Island,44,1048319,Northeast
+2000,South Carolina,45,4012012,South
+2000,South Dakota,46,754844,Midwest
+2000,Tennessee,47,5689283,South
+2000,Texas,48,20851820,South
+2000,Utah,49,2233169,West
+2000,Vermont,50,608827,Northeast
+2000,Virginia,51,7078515,South
+2000,Washington,53,5894121,West
+2000,West Virginia,54,1808344,South
+2000,Wisconsin,55,5363675,Midwest
+2000,Wyoming,56,493782,West
+2000,Puerto Rico,72,3808610,undefined
+2010,Alabama,1,4779736,South
+2010,Alaska,2,710231,West
+2010,Arizona,4,6392017,West
+2010,Arkansas,5,2915918,South
+2010,California,6,37253956,West
+2010,Louisiana,22,4533372,South
+2010,Kentucky,21,4339367,South
+2010,Colorado,8,5029196,West
+2010,Connecticut,9,3574097,Northeast
+2010,Delaware,10,897934,South
+2010,District of Columbia,11,601723,South
+2010,Florida,12,18801310,South
+2010,Georgia,13,9687653,South
+2010,Hawaii,15,1360301,West
+2010,Idaho,16,1567582,West
+2010,Illinois,17,12830632,Midwest
+2010,Indiana,18,6483802,Midwest
+2010,Iowa,19,3046355,Midwest
+2010,Kansas,20,2853118,Midwest
+2010,Maine,23,1328361,Northeast
+2010,Maryland,24,5773552,South
+2010,Massachusetts,25,6547629,Northeast
+2010,Michigan,26,9883640,Midwest
+2010,Minnesota,27,5303925,Midwest
+2010,Mississippi,28,2967297,South
+2010,Missouri,29,5988927,Midwest
+2010,Montana,30,989415,West
+2010,Nebraska,31,1826341,Midwest
+2010,Nevada,32,2700551,West
+2010,New Hampshire,33,1316470,Northeast
+2010,New Jersey,34,8791894,Northeast
+2010,New Mexico,35,2059179,West
+2010,New York,36,19378102,Northeast
+2010,North Carolina,37,9535483,South
+2010,North Dakota,38,672591,Midwest
+2010,Ohio,39,11536504,Midwest
+2010,Oklahoma,40,3751351,South
+2010,Oregon,41,3831074,West
+2010,Pennsylvania,42,12702379,Northeast
+2010,Rhode Island,44,1052567,Northeast
+2010,South Carolina,45,4625364,South
+2010,South Dakota,46,814180,Midwest
+2010,Tennessee,47,6346105,South
+2010,Texas,48,25145561,South
+2010,Utah,49,2763885,West
+2010,Vermont,50,625741,Northeast
+2010,Virginia,51,8001024,South
+2010,Washington,53,6724540,West
+2010,West Virginia,54,1852994,South
+2010,Wisconsin,55,5686986,Midwest
+2010,Wyoming,56,563626,West
+2010,Puerto Rico,72,3725789,undefined
+2020,Pennsylvania,42,13002700,Northeast
+2020,California,6,39538223,West
+2020,West Virginia,54,1793716,South
+2020,Utah,49,3271616,West
+2020,New York,36,20201249,Northeast
+2020,District of Columbia,11,689545,South
+2020,Alaska,2,733391,West
+2020,Florida,12,21538187,South
+2020,South Carolina,45,5118425,South
+2020,North Dakota,38,779094,Midwest
+2020,Maine,23,1362359,Northeast
+2020,Georgia,13,10711908,South
+2020,Alabama,1,5024279,South
+2020,New Hampshire,33,1377529,Northeast
+2020,Oregon,41,4237256,West
+2020,Wyoming,56,576851,West
+2020,Arizona,4,7151502,West
+2020,Louisiana,22,4657757,South
+2020,Indiana,18,6785528,Midwest
+2020,Idaho,16,1839106,West
+2020,Connecticut,9,3605944,Northeast
+2020,Hawaii,15,1455271,West
+2020,Illinois,17,12812508,Midwest
+2020,Massachusetts,25,7029917,Northeast
+2020,Texas,48,29145505,South
+2020,Montana,30,1084225,West
+2020,Nebraska,31,1961504,Midwest
+2020,Ohio,39,11799448,Midwest
+2020,Colorado,8,5773714,West
+2020,New Jersey,34,9288994,Northeast
+2020,Maryland,24,6177224,South
+2020,Virginia,51,8631393,South
+2020,Vermont,50,643077,Northeast
+2020,North Carolina,37,10439388,South
+2020,Arkansas,5,3011524,South
+2020,Washington,53,7705281,West
+2020,Kansas,20,2937880,Midwest
+2020,Oklahoma,40,3959353,South
+2020,Wisconsin,55,5893718,Midwest
+2020,Mississippi,28,2961279,South
+2020,Missouri,29,6154913,Midwest
+2020,Michigan,26,10077331,Midwest
+2020,Rhode Island,44,1097379,Northeast
+2020,Minnesota,27,5706494,Midwest
+2020,Iowa,19,3190369,Midwest
+2020,New Mexico,35,2117522,West
+2020,Nevada,32,3104614,West
+2020,Delaware,10,989948,South
+2020,Puerto Rico,72,3285874,undefined
+2020,Kentucky,21,4505836,South
+2020,South Dakota,46,886667,Midwest
+2020,Tennessee,47,6910840,South
